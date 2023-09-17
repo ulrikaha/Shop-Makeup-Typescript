@@ -1,0 +1,4 @@
+
+type HairCareComponentProps = {
+    details: Haircare
+}

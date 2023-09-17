@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "Mascara",
+    "price": 20.00,
+    "description": "With its smudge-proof and long-lasting formula, you can enjoy all-day confidence without worrying about flaking or clumping. The brush applicator is expertly designed to coat each and every lash, ensuring a flawless and dramatic look every time you apply.",
+    "imgUrl": "/imgs/mascara.jpg",
+    "type": "MakeUp",
+    "brand": "Venus",
+    "size": "10ml",
+    "productType": "Mascara",
+    "shade": "Black",
+    "productCategoryDetails": {
+      "skinType": "Nomal",
+      "ingredients": [
+        "Vitamin C",
+        "Vitamin E",
+        "Vitamin A"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Primer",
+    "price": 20.00,
+    "description": "Our primer is designed to minimize the appearance of pores, fine lines, and imperfections, creating a smooth and even surface for your foundation. It also helps your makeup stay in place, preventing it from creasing or fading throughout the day.",
+    "imgUrl": "/imgs/primer.jpg",
+    "type": "SkinCare",
+    "brand": "Venus",
+    "size": "25 ml",
+    "productType": "Primer",
+    "shade": "None",
+    "productCategoryDetails": {
+      "skinType": "Nomal",
+      "ingredients": [
+        "Vitamin C",
+        "Vitamin E",
+        "Vitamin A"
+      ],
+      "targetedConcerns": [
+        "Acne",
+        "Spots",
+        "Shine"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Schampoo",
+    "price": 25.00,
+    "description": "Our shampoo is specially formulated to cleanse your hair without stripping away its natural oils, leaving it feeling clean, soft, and manageable. Whether you have straight or curly hair, colored or natural, this shampoo is suitable for all hair types. It's also free from harmful sulfates and parabens, ensuring a gentle yet effective cleansing experience.",
+    "imgUrl": "/imgs/schampo.jpg",
+    "type": "HairCare",
+    "brand": "Miya",
+    "size": "250 ml",
+    "productType": "Schampoo",
+    "shade": "None",
+    "productCategoryDetails": {
+      "ingredients": [
+        "Aqua",
+        "Vitamin E",
+        "Vitamin A",
+        "Parfume"
+      ],
+      "hairType": "All hair types",
+      "hairConcerns": [
+        "Dryness",
+        "Frizz",
+        "Split ends"
+      ]
+    }
+  }
+]

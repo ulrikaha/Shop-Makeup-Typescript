@@ -1,0 +1,4 @@
+
+type ShoppingCartProps = {
+    isOpen: boolean
+  }

@@ -1,0 +1,4 @@
+
+type IngridientsComponentProps = {
+    ingredients: string[]
+}

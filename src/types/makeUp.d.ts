@@ -1,0 +1,4 @@
+
+type MakeUpComponentProps = {
+    details: Makeup
+}
